@@ -154,7 +154,7 @@
       <div class="p-2">
       <main>
           <div class="container-fluid">
-              <h3 class="text-center py-2">Welcome Admin</h3>
+              <h3 class="text-center py-2">Welcome Dashboard</h3>
               <img class="img-fluid align-center p-3 mx-auto d-block" src="../Images/global" alt="dashboad image">
               <div class="row text-center d-flex justify-content-around py-3">
 
