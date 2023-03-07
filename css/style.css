@@ -1,0 +1,13 @@
+h3, h4 {
+  background: -webkit-linear-gradient(#0033cc, #ff99ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.table tr th {
+  background-color: #02AD8B;
+  color: #ffffff;
+  font-weight: 500;
+}
+.table tr td{
+  font-weight: 400;
+}
